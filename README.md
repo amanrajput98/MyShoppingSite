@@ -1,4 +1,4 @@
-# MyShoppingSitecan
+# MyShoppingSite
 
 If any errors occurs during code setup it is bcoz 1 of the jar is missing i.e servlet-api.jar you can find it in your apache-tomcat installation.
 You can find the jar at dir apache-tomcat/bin u'll find the jars one of the jar is servlet-api.jar.
